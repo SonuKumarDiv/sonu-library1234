@@ -1,0 +1,34 @@
+respected sir ..you are alrady know all steps but sir  for knowladge i am writing here
+
+dawmlod projets from git hub from given reposi...
+haw to run code step by step
+
+dawnlod and install vscode
+
+dawnlod and install  python
+
+ django dawnlod
+ open cmd and type----pip install django
+ 
+pillow dawnlod
+
+open cmd and type - pip install  pillow
+
+
+open vs code  and open projects in vs code
+
+ after open vs code run commond---  python manage.py runserver
+
+then copy link and paste on google chrome after this steps projects is running
+
+
+haw to chek  django super user database....
+
+user name.. Sonu
+..
+pass.. sonu@1234
+
+
+
+thankyou
+
